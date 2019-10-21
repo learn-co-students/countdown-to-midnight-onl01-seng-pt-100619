@@ -1,4 +1,8 @@
-#write your code here
+countdown = 10 
 
-def countdown
+if countdown < 0 
+  puts "#{number} SCECOND(S)!"
+  while countdown -=1 
+  puts "#{number} SCECOND(S)-=1!"
+  loop_string countdown -=1 
 end
